@@ -73,6 +73,15 @@ the return distribution (L2 density and Cramér–von Mises tests).
 - Repository: [github.com/yang-zu/sv-return-distribution-test](https://github.com/yang-zu/sv-return-distribution-test)
 - Paper: Zu and Boswijk (2017), *Journal of Empirical Finance* — see [Research](research.qmd)
 
+### sv-volatility-density-test  <span style="font-weight:400;color:var(--bs-secondary-color)">(MATLAB)</span>
+
+MATLAB implementation of the specification test for stochastic-volatility models based on
+the volatility density, recovered by deconvolution of squared returns (L2 tests against the
+model spot-variance density and the stationary marginal), with optional GMM estimation.
+
+- Repository: [github.com/yang-zu/sv-volatility-density-test](https://github.com/yang-zu/sv-volatility-density-test)
+- Paper: Zu (2015), *Journal of Econometrics* — see [Research](research.qmd)
+
 ### spot-volatility-hf  <span style="font-weight:400;color:var(--bs-secondary-color)">(Ox)</span>
 
 Ox implementation of the noise-robust local two-scale (TSRV) spot-volatility estimator for
