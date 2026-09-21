@@ -1,9 +1,9 @@
 ---
 title: "Improved Andrews' formula for testing changing mean"
-subtitle: "A refinement of Andrews' formula that improves tests for a change in the mean."
+subtitle: "A truncated-bandwidth rule (an improved Andrews' formula) that restores size control and monotonic power for the classical CUSUM and QS mean-shift tests."
 description: "Li, Zhang and Zu (forthcoming). *Economics Letters*."
 date: 2026-01-02
-categories: ["Structural change", "forthcoming"]
+categories: ["Structural change", "forthcoming", "code"]
 ---
 
 Li, Zhang and Zu (forthcoming). *Economics Letters*.
@@ -11,6 +11,7 @@ Li, Zhang and Zu (forthcoming). *Economics Letters*.
 ## Links
 
 - Journal — forthcoming
+- [Code (R)](https://github.com/yang-zu/truncated-andrews-bandwidth) — installable R package for the test and bandwidth calibration
 
 ## BibTeX
 
