@@ -14,4 +14,4 @@ listing:
 page-layout: full
 ---
 
-Journal articles, forthcoming papers, and working papers. Each entry links to the published version or preprint and its BibTeX. Working papers are tagged **working paper**; forthcoming articles are tagged **forthcoming**.
+Journal articles, forthcoming papers, and working papers.
