@@ -6,6 +6,10 @@ date: 2025-06-01
 categories: ["Structural change", "working paper"]
 ---
 
+## Abstract
+
+We show that the class of tests for non-constancy (at unknown point(s) in the sample) in the slope parameters of a linear model based on the forward or backward CUSUMs of recursive residuals are not in general robust, even asymptotically, to the presence of unconditional heteroskedasticity (widely referred to as *non-stationary volatility* in time-series settings) in the model. In order that the probability of a rejection by these tests can be controlled at the nominal level under the null hypothesis of constant slope parameters in cases where unconditional heteroskedasticity may be present, we develop fixed-design wild bootstrap based implementations of these tests. These are shown to replicate the non-pivotal first-order limiting null distributions of the CUSUM statistics in such cases, facilitating asymptotically pivotal inference. Monte Carlo experiments show that the bootstrap CUSUM tests control size well in finite samples, even for strongly heteroskedastic models, without sacrificing power relative to the standard CUSUM tests when the errors are homoskedastic. We also develop a new hybrid CUSUM test, along with its wild bootstrap analogue, based on the maximum of the forward CUSUM and backward CUSUM statistics. This test exploits the superior power performance of a test based on the former for breaks which occur early in the sample and that of a test based on the latter for later breaks, such that good power is maintained regardless of the location of breaks.
+
 ## BibTeX
 
 ```bibtex
