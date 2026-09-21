@@ -31,3 +31,12 @@ Install with `remotes::install_github("yang-zu/truncated-andrews-bandwidth")`.
 
 - Repository: [github.com/yang-zu/truncated-andrews-bandwidth](https://github.com/yang-zu/truncated-andrews-bandwidth)
 - Paper: Li, Zhang and Zu, *Economics Letters* — see [Research](research.qmd)
+
+### adaptive-cointegration-test  <span style="font-weight:400;color:var(--bs-secondary-color)">(Ox)</span>
+
+Ox implementation of the adaptive test for cointegration with nonstationary volatility:
+the Johansen trace test and the spot-covariance-weighted adaptive LR test, each with
+wild- and volatility-bootstrap p-values (bivariate system, no-cointegration null).
+
+- Repository: [github.com/yang-zu/adaptive-cointegration-test](https://github.com/yang-zu/adaptive-cointegration-test)
+- Paper: Boswijk and Zu (2022), *Journal of Business and Economic Statistics* — see [Research](research.qmd)
