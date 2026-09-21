@@ -3,7 +3,7 @@ title: "Testing explosive bubbles with time-varying volatility"
 subtitle: "A wild-bootstrap bubble test that remains correctly sized when volatility changes over time."
 description: "Harvey, Leybourne and Zu (2019). *Econometric Reviews* 38, 1131–1151."
 date: 2019-01-01
-categories: ["Bubble testing", "Time-varying volatility"]
+categories: ["Bubble testing", "Time-varying volatility", "code"]
 ---
 
 Harvey, Leybourne and Zu (2019). *Econometric Reviews* 38, 1131–1151.

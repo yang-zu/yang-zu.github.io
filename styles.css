@@ -29,6 +29,33 @@ body {
   margin-right: 4px;
 }
 
+/* Highlight the "code" tag in the listing (base64 of "code" = Y29kZQ==) */
+.listing-category[onclick*="Y29kZQ=="] {
+  background-color: #e6f4ea !important;
+  color: #137333 !important;
+  font-weight: 600;
+}
+.listing-category[onclick*="Y29kZQ=="]::before {
+  content: "\2039/\203A\00a0";   /* ‹/› */
+}
+
+/* Inline "code available" badge for hand-written lists (home page) */
+.code-badge {
+  font-size: 0.72em;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+  color: #137333;
+  background-color: #e6f4ea;
+  border-radius: 3px;
+  padding: 1px 6px;
+  margin-left: 6px;
+  text-decoration: none;
+  white-space: nowrap;
+  vertical-align: 1px;
+}
+.code-badge:hover { background-color: #d3ecdb; }
+
 /* Navbar spacing */
 .navbar-brand {
   font-weight: 600;
