@@ -35,4 +35,4 @@ I received my PhD in Econometrics from the **University of Amsterdam** and the
 - "Improved Andrews' Formula for Testing Changing Mean" (with W. Li and X. Zhang) — forthcoming at *Economics Letters*.
 - "Covariate-augmented CUSUM bubble monitoring procedures" (with S. Astill and R. Taylor) — forthcoming at *Econometric Theory*.
 - "Statistical comparison of forecasts made at different frequencies" (with R. Zhang and W. Li) — forthcoming at *Journal of Business and Economic Statistics*.
-- "Testing for an explosive bubble using high-frequency volatility" (with H. P. Boswijk and J. Yu) — minor revision at *Management Science*.
+- "Testing for an explosive bubble using high-frequency volatility" (with H. P. Boswijk and J. Yu) — working paper.
