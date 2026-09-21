@@ -12,6 +12,9 @@ about:
     - icon: github
       text: GitHub
       href: https://github.com/yang-zu
+    - icon: mortarboard
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=8W5h0aUAAAAJ&hl=en
     - icon: file-earmark-person
       text: CV
       href: cv.pdf
