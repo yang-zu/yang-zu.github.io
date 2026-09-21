@@ -1,0 +1,40 @@
+---
+title: "Feature screening for high-dimensional structural break predictive regression"
+description: "With Z. Qin, R. Zhang and W. Zhang. Working paper."
+date: 2026-06-17
+categories: ["Structural change", "working paper"]
+---
+
+With Z. Qin, R. Zhang and W. Zhang. Working paper.
+
+## Abstract
+
+Predictive regression is a crucial tool for exploring return predictability. In
+this study, we introduce an efficient procedure for selecting and estimating
+active predictors and change points in structural break predictive regression.
+Our approach allows the number of change points to increase with the sample size
+and accommodates sparse active predictors that may be stationary or cointegrated.
+We begin by identifying the active predictors using a Sure Independence Canonical
+Screening (SICS) procedure. Next, we estimate the change points through a
+Ratio-Controlled Regression Screening (RCRS) method. Finally, we reduce redundancy
+by eliminating unnecessary breakpoints and predictors using information criteria
+(IC). This approach allows for consistent estimation and selection of true
+breakpoints and active predictors. Our simulations and empirical studies
+demonstrate that the proposed procedure performs effectively.
+
+## Links
+
+- [arXiv](https://arxiv.org/abs/2606.18949)
+
+## BibTeX
+
+```bibtex
+@unpublished{qin2026feature,
+  title         = {Feature screening for high-dimensional structural break predictive regression},
+  author        = {Qin, Zhenjie and Zhang, Rongmao and Zhang, Wenyang and Zu, Yang},
+  year          = {2026},
+  note          = {Working paper},
+  eprint        = {2606.18949},
+  archivePrefix = {arXiv}
+}
+```
