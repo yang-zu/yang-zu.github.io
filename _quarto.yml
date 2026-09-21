@@ -25,6 +25,8 @@ website:
         aria-label: GitHub
       - text: "Scholar"
         href: https://scholar.google.com/citations?user=8W5h0aUAAAAJ&hl=en
+      - text: "ORCID"
+        href: https://orcid.org/0000-0002-3427-5403
   page-footer:
     left: "© Yang Zu"
     right: "Built with [Quarto](https://quarto.org)"
