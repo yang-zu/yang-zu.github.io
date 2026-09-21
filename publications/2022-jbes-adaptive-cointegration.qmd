@@ -1,7 +1,7 @@
 ---
 title: "Adaptive testing for cointegration with nonstationary volatility"
 subtitle: "Adaptive cointegration tests that recover efficiency and stay valid when volatility is nonstationary."
-description: "Boswijk and Zu (2022). *Journal of Business and Economic Statistics* 40, 744–755."
+description: "Boswijk, H. P. and **Zu, Y.** (2022). *Journal of Business and Economic Statistics* 40, 744–755."
 date: 2022-01-01
 categories: ["Unit root & cointegration", "Nonstationary volatility", "code"]
 ---

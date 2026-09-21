@@ -1,7 +1,7 @@
 ---
 title: "A new heteroskedasticity-robust test for explosive bubbles"
 subtitle: "A test for explosive bubbles that is robust to heteroskedasticity in the innovations."
-description: "Harvey, Leybourne, Taylor and Zu (2024). *Journal of Time Series Analysis*."
+description: "Harvey, D. I., Leybourne, S. J., Taylor, A. M. R. and **Zu, Y.** (2024). *Journal of Time Series Analysis*."
 date: 2024-06-01
 categories: ["Bubble testing", "Time-varying volatility"]
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Tests for equal forecast accuracy under heteroskedasticity"
 subtitle: "Diebold-Mariano-type forecast-comparison tests that remain valid under heteroskedastic forecast errors."
-description: "Harvey, Leybourne and Zu (2024). *Journal of Applied Econometrics* 39, 850–869."
+description: "Harvey, D. I., Leybourne, S. J. and **Zu, Y.** (2024). *Journal of Applied Econometrics* 39, 850–869."
 date: 2024-01-01
 categories: ["Forecast evaluation", "code"]
 ---

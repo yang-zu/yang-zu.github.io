@@ -1,7 +1,7 @@
 ---
 title: "Unit root tests for explosive financial bubbles in the presence of deterministic level shifts"
 subtitle: "Explosive-root (bubble) tests that stay reliable when the price series also contains deterministic level shifts."
-description: "Harvey, Leybourne, Tatlow and Zu (2025). *Oxford Bulletin of Economics and Statistics*."
+description: "Harvey, D. I., Leybourne, S. J., Tatlow, B. S. and **Zu, Y.** (2025). *Oxford Bulletin of Economics and Statistics*."
 date: 2025-03-01
 categories: ["Bubble testing"]
 ---
