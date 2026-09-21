@@ -1,9 +1,9 @@
 ---
 title: "Statistical comparison of forecasts made at different frequencies"
 subtitle: "A framework and test for comparing the accuracy of forecasts issued at different sampling frequencies."
-description: "Zhang, R., **Zu, Y.** and Li, W. (forthcoming). *Journal of Business and Economic Statistics*."
-date: 2026-01-15
-categories: ["Forecast evaluation", "forthcoming", "code"]
+description: "Zhang, R., **Zu, Y.** and Li, W. (2026). *Journal of Business and Economic Statistics* (advance access)."
+date: 2026-05-13
+categories: ["Forecast evaluation", "code"]
 ---
 
 ## Abstract

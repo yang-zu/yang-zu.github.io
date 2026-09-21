@@ -37,7 +37,7 @@ I received my PhD in Econometrics from the **University of Amsterdam** and the
 
 ### Recent
 
-- [Improved Andrews' formula for testing changing mean](publications/2026-el-andrews.qmd) (with W. Li and X. Zhang) — forthcoming at *Economics Letters*. [code](https://github.com/yang-zu/truncated-andrews-bandwidth){.code-badge}
-- [Covariate-augmented CUSUM bubble monitoring procedures](publications/2026-covariate-cusum.qmd) (with S. Astill and R. Taylor) — forthcoming at *Econometric Theory*.
-- [Statistical comparison of forecasts made at different frequencies](publications/2026-jbes-frequencies.qmd) (with R. Zhang and W. Li) — forthcoming at *Journal of Business and Economic Statistics*. [code](https://github.com/yang-zu/dm-different-frequencies){.code-badge}
+- [Improved Andrews' formula for testing changing mean](publications/2026-el-andrews.qmd) (with W. Li and X. Zhang) — *Economics Letters* 268, 113141 (2026). [code](https://github.com/yang-zu/truncated-andrews-bandwidth){.code-badge}
+- [Covariate-augmented CUSUM bubble monitoring procedures](publications/2026-covariate-cusum.qmd) (with S. Astill and R. Taylor) — *Econometric Theory* (advance access, 2026).
+- [Statistical comparison of forecasts made at different frequencies](publications/2026-jbes-frequencies.qmd) (with R. Zhang and W. Li) — *Journal of Business and Economic Statistics* (advance access, 2026). [code](https://github.com/yang-zu/dm-different-frequencies){.code-badge}
 - [Testing for an explosive bubble using high-frequency volatility](publications/2025-wp-high-frequency-bubble.qmd) (with H. P. Boswijk and J. Yu) — working paper.
