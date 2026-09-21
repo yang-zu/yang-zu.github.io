@@ -6,8 +6,6 @@ date: 2022-01-01
 categories: ["Unit root & cointegration", "Nonstationary volatility", "code"]
 ---
 
-Boswijk and Zu (2022). *Journal of Business and Economic Statistics* 40, 744–755.
-
 ## Links
 
 - [Journal](https://doi.org/10.1080/07350015.2020.1867558)

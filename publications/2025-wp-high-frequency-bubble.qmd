@@ -6,8 +6,6 @@ date: 2025-06-02
 categories: ["Bubble testing", "working paper"]
 ---
 
-With H. P. Boswijk and J. Yu. Working paper.
-
 ## BibTeX
 
 ```bibtex

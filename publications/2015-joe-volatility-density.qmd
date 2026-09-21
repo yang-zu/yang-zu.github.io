@@ -6,8 +6,6 @@ date: 2015-08-01
 categories: ["Volatility", "Specification testing", "code"]
 ---
 
-Zu (2015). *Journal of Econometrics* 187, 323–344.
-
 ## Links
 
 - [Journal](https://doi.org/10.1016/j.jeconom.2015.02.045)

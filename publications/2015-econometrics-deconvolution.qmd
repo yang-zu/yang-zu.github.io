@@ -6,8 +6,6 @@ date: 2015-09-01
 categories: ["Volatility"]
 ---
 
-Zu (2015). *Econometrics* 3, 561–576.
-
 ## Links
 
 - [Journal](https://doi.org/10.3390/econometrics3030561)

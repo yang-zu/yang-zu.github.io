@@ -6,8 +6,6 @@ date: 2026-01-02
 categories: ["Structural change", "forthcoming", "code"]
 ---
 
-Li, Zhang and Zu (forthcoming). *Economics Letters*.
-
 ## Links
 
 - Journal — forthcoming

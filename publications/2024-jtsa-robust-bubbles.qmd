@@ -6,8 +6,6 @@ date: 2024-06-01
 categories: ["Bubble testing", "Time-varying volatility"]
 ---
 
-Harvey, Leybourne, Taylor and Zu (2024). *Journal of Time Series Analysis*.
-
 ## Links
 
 - [Journal](https://doi.org/10.1111/jtsa.12784)

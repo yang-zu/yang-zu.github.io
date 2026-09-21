@@ -6,8 +6,6 @@ date: 2014-01-01
 categories: ["Volatility", "code"]
 ---
 
-Zu and Boswijk (2014). *Journal of Econometrics* 181, 117–135.
-
 ## Links
 
 - [Journal](https://doi.org/10.1016/j.jeconom.2014.04.001)

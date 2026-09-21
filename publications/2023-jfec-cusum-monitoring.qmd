@@ -6,8 +6,6 @@ date: 2023-01-01
 categories: ["Bubble testing", "Monitoring"]
 ---
 
-Astill, Harvey, Leybourne, Taylor and Zu (2023). *Journal of Financial Econometrics* 21, 187–227.
-
 ## Links
 
 - [Journal](https://doi.org/10.1093/jjfinec/nbab009)

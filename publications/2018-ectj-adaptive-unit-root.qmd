@@ -6,8 +6,6 @@ date: 2018-01-01
 categories: ["Unit root & cointegration", "Nonstationary volatility", "code"]
 ---
 
-Boswijk and Zu (2018). *Econometrics Journal* 21, 87–113.
-
 ## Links
 
 - [Journal](https://doi.org/10.1111/ectj.12100)

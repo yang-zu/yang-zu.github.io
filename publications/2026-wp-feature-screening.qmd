@@ -6,8 +6,6 @@ date: 2026-06-17
 categories: ["Structural change", "working paper"]
 ---
 
-With Z. Qin, R. Zhang and W. Zhang. Working paper.
-
 ## Abstract
 
 Predictive regression is a crucial tool for exploring return predictability. In

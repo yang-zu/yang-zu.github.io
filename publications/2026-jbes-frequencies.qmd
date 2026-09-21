@@ -6,8 +6,6 @@ date: 2026-01-15
 categories: ["Forecast evaluation", "forthcoming", "code"]
 ---
 
-Zhang, Zu and Li (forthcoming). *Journal of Business and Economic Statistics*.
-
 ## Links
 
 - [Journal](https://doi.org/10.1080/07350015.2026.2634825)

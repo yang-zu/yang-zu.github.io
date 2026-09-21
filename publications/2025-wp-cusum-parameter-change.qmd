@@ -6,8 +6,6 @@ date: 2025-06-01
 categories: ["Structural change", "working paper"]
 ---
 
-With S. Astill, G. Cavaliere and A. M. R. Taylor. Working paper.
-
 ## BibTeX
 
 ```bibtex

@@ -6,8 +6,6 @@ date: 2020-01-01
 categories: ["Bubble testing", "Time-varying volatility"]
 ---
 
-Harvey, Leybourne and Zu (2020). *Econometric Theory* 36, 122–169.
-
 ## Links
 
 - [Journal](https://doi.org/10.1017/S0266466619000057)

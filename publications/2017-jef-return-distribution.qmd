@@ -6,8 +6,6 @@ date: 2017-01-01
 categories: ["Volatility", "Specification testing", "code"]
 ---
 
-Zu and Boswijk (2017). *Journal of Empirical Finance* 41, 53–75.
-
 ## Links
 
 - [Journal](https://doi.org/10.1016/j.jempfin.2016.12.005)
