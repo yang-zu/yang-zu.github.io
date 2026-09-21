@@ -3,7 +3,7 @@ title: "Consistent nonparametric specification tests for stochastic volatility m
 subtitle: "Nonparametric tests of whether a stochastic-volatility model is correctly specified, based on the implied return distribution."
 description: "Zu and Boswijk (2017). *Journal of Empirical Finance* 41, 53–75."
 date: 2017-01-01
-categories: ["Volatility", "Specification testing"]
+categories: ["Volatility", "Specification testing", "code"]
 ---
 
 Zu and Boswijk (2017). *Journal of Empirical Finance* 41, 53–75.
@@ -11,6 +11,7 @@ Zu and Boswijk (2017). *Journal of Empirical Finance* 41, 53–75.
 ## Links
 
 - [Journal](https://doi.org/10.1016/j.jempfin.2016.12.005)
+- [Code (MATLAB)](https://github.com/yang-zu/sv-return-distribution-test) — ready-to-use implementation of the test
 
 ## BibTeX
 

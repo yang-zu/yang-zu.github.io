@@ -3,7 +3,7 @@ title: "Tests for equal forecast accuracy under heteroskedasticity"
 subtitle: "Diebold-Mariano-type forecast-comparison tests that remain valid under heteroskedastic forecast errors."
 description: "Harvey, Leybourne and Zu (2024). *Journal of Applied Econometrics* 39, 850–869."
 date: 2024-01-01
-categories: ["Forecast evaluation"]
+categories: ["Forecast evaluation", "code"]
 ---
 
 Harvey, Leybourne and Zu (2024). *Journal of Applied Econometrics* 39, 850–869.
@@ -11,6 +11,7 @@ Harvey, Leybourne and Zu (2024). *Journal of Applied Econometrics* 39, 850–869
 ## Links
 
 - [Journal](https://doi.org/10.1002/jae.3050)
+- [Code (MATLAB)](https://github.com/yang-zu/volatility-adjusted-dm) — ready-to-use implementation of the test
 
 ## BibTeX
 

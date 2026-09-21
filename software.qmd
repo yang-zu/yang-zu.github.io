@@ -40,3 +40,35 @@ wild- and volatility-bootstrap p-values (bivariate system, no-cointegration null
 
 - Repository: [github.com/yang-zu/adaptive-cointegration-test](https://github.com/yang-zu/adaptive-cointegration-test)
 - Paper: Boswijk and Zu (2022), *Journal of Business and Economic Statistics* — see [Research](research.qmd)
+
+### adaptive-unit-root-test  <span style="font-weight:400;color:var(--bs-secondary-color)">(Ox)</span>
+
+Ox implementation of the adaptive wild-bootstrap unit-root test (DF-GLS and adaptive LR,
+robust to nonstationary volatility).
+
+- Repository: [github.com/yang-zu/adaptive-unit-root-test](https://github.com/yang-zu/adaptive-unit-root-test)
+- Paper: Boswijk and Zu (2018), *The Econometrics Journal* — see [Research](research.qmd)
+
+### volatility-adjusted-dm  <span style="font-weight:400;color:var(--bs-secondary-color)">(MATLAB)</span>
+
+MATLAB implementation of the volatility-adjusted Diebold–Mariano tests for equal forecast
+accuracy that remain valid under heteroskedasticity.
+
+- Repository: [github.com/yang-zu/volatility-adjusted-dm](https://github.com/yang-zu/volatility-adjusted-dm)
+- Paper: Harvey, Leybourne and Zu (2024), *Journal of Applied Econometrics* — see [Research](research.qmd)
+
+### gdm-unstable-accuracy  <span style="font-weight:400;color:var(--bs-secondary-color)">(MATLAB)</span>
+
+MATLAB implementation of the generalized Diebold–Mariano test for equal *average* forecast
+accuracy when relative accuracy varies over time.
+
+- Repository: [github.com/yang-zu/gdm-unstable-accuracy](https://github.com/yang-zu/gdm-unstable-accuracy)
+- Paper: Harvey, Leybourne and Zu (2025), *Journal of Business and Economic Statistics* — see [Research](research.qmd)
+
+### sv-return-distribution-test  <span style="font-weight:400;color:var(--bs-secondary-color)">(MATLAB)</span>
+
+MATLAB implementation of the specification test for stochastic-volatility models based on
+the return distribution (L2 density and Cramér–von Mises tests).
+
+- Repository: [github.com/yang-zu/sv-return-distribution-test](https://github.com/yang-zu/sv-return-distribution-test)
+- Paper: Zu and Boswijk (2017), *Journal of Empirical Finance* — see [Research](research.qmd)

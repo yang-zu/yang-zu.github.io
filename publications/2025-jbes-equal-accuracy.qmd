@@ -3,7 +3,7 @@ title: "Testing for equal average forecast accuracy in possibly unstable environ
 subtitle: "Tests for equal average forecast accuracy that stay valid when relative forecast performance is unstable over time."
 description: "Harvey, Leybourne and Zu (2025). *Journal of Business and Economic Statistics* 43, 643–656."
 date: 2025-01-01
-categories: ["Forecast evaluation"]
+categories: ["Forecast evaluation", "code"]
 ---
 
 Harvey, Leybourne and Zu (2025). *Journal of Business and Economic Statistics* 43, 643–656.
@@ -11,6 +11,7 @@ Harvey, Leybourne and Zu (2025). *Journal of Business and Economic Statistics* 4
 ## Links
 
 - [Journal](https://doi.org/10.1080/07350015.2024.2418835)
+- [Code (MATLAB)](https://github.com/yang-zu/gdm-unstable-accuracy) — ready-to-use implementation of the test
 
 ## BibTeX
 
