@@ -1,0 +1,15 @@
+---
+title: "Software"
+---
+
+Ready-to-use implementations of the methods from my papers, so you can apply them to
+your own data. These are method packages, not replication files. If you use one,
+please cite the corresponding paper (each repository has a "How to cite" section).
+
+### bubble-test-tv-volatility
+
+MATLAB implementation of the wild-bootstrap sup-DF / sup-BZ / union test for explosive
+bubbles that remains valid under time-varying volatility.
+
+- Repository: [github.com/yang-zu/bubble-test-tv-volatility](https://github.com/yang-zu/bubble-test-tv-volatility)
+- Paper: Harvey, Leybourne and Zu (2019), *Econometric Reviews* — see [Research](research.qmd)

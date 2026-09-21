@@ -11,6 +11,7 @@ Harvey, Leybourne and Zu (2019). *Econometric Reviews* 38, 1131–1151.
 ## Links
 
 - [Journal](https://doi.org/10.1080/07474938.2018.1536099)
+- [Code (MATLAB)](https://github.com/yang-zu/bubble-test-tv-volatility) — ready-to-use implementation of the test
 
 ## BibTeX
 
