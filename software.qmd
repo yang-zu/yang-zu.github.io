@@ -13,3 +13,12 @@ bubbles that remains valid under time-varying volatility.
 
 - Repository: [github.com/yang-zu/bubble-test-tv-volatility](https://github.com/yang-zu/bubble-test-tv-volatility)
 - Paper: Harvey, Leybourne and Zu (2019), *Econometric Reviews* — see [Research](research.qmd)
+
+### dm-different-frequencies
+
+MATLAB implementation of the two-sample test for comparing the accuracy of forecasts
+observed at different sampling frequencies (e.g. a monthly forecast against a quarterly
+one).
+
+- Repository: [github.com/yang-zu/dm-different-frequencies](https://github.com/yang-zu/dm-different-frequencies)
+- Paper: Zhang, Zu and Li, *Journal of Business and Economic Statistics* — see [Research](research.qmd)
