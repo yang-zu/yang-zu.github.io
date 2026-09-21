@@ -1,5 +1,6 @@
 ---
 title: "Testing for an explosive bubble using high-frequency volatility"
+subtitle: "Uses high-frequency volatility information to build a more powerful test for an explosive bubble."
 description: "With H. P. Boswijk and J. Yu. Working paper."
 date: 2025-06-02
 categories: ["Bubble testing", "working paper"]

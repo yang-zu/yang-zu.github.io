@@ -1,5 +1,6 @@
 ---
 title: "Estimation of the variance function in structural break autoregressive models with non-stationary and explosive segments"
+subtitle: "Estimates the time-varying variance function in autoregressive models whose segments may be non-stationary or explosive."
 description: "Harvey, Leybourne and Zu (2023). *Journal of Time Series Analysis* 44, 181–205."
 date: 2023-03-01
 categories: ["Bubble testing", "Volatility"]

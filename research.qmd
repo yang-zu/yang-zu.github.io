@@ -7,7 +7,7 @@ listing:
   categories: true
   sort-ui: false
   filter-ui: true
-  fields: [date, title, description, categories]
+  fields: [date, title, subtitle, description, categories]
   field-display-names:
     date: "Year"
     description: "Authors and outlet"

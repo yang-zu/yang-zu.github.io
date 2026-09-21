@@ -1,5 +1,6 @@
 ---
 title: "Testing for equal average forecast accuracy in possibly unstable environments"
+subtitle: "Tests for equal average forecast accuracy that stay valid when relative forecast performance is unstable over time."
 description: "Harvey, Leybourne and Zu (2025). *Journal of Business and Economic Statistics* 43, 643–656."
 date: 2025-01-01
 categories: ["Forecast evaluation"]

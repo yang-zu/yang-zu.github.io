@@ -1,5 +1,6 @@
 ---
 title: "Consistent nonparametric specification tests for stochastic volatility models based on the return distribution"
+subtitle: "Nonparametric tests of whether a stochastic-volatility model is correctly specified, based on the implied return distribution."
 description: "Zu and Boswijk (2017). *Journal of Empirical Finance* 41, 53–75."
 date: 2017-01-01
 categories: ["Volatility", "Specification testing"]

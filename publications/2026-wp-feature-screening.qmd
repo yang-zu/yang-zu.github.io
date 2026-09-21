@@ -1,5 +1,6 @@
 ---
 title: "Feature screening for high-dimensional structural break predictive regression"
+subtitle: "A screening procedure that jointly selects active predictors and estimates multiple change points in high-dimensional predictive regressions."
 description: "With Z. Qin, R. Zhang and W. Zhang. Working paper."
 date: 2026-06-17
 categories: ["Structural change", "working paper"]

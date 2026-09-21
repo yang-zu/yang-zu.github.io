@@ -1,5 +1,6 @@
 ---
 title: "Improved Andrews' formula for testing changing mean"
+subtitle: "A refinement of Andrews' formula that improves tests for a change in the mean."
 description: "Li, Zhang and Zu (forthcoming). *Economics Letters*."
 date: 2026-01-02
 categories: ["Structural change", "forthcoming"]

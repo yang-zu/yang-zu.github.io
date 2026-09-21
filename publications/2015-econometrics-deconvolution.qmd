@@ -1,5 +1,6 @@
 ---
 title: "A note on asymptotic normality of the kernel deconvolution density estimator with logarithmic chi-square noise"
+subtitle: "Establishes asymptotic normality for a kernel deconvolution density estimator under logarithmic chi-square measurement error."
 description: "Zu (2015). *Econometrics* 3, 561–576."
 date: 2015-09-01
 categories: ["Volatility"]

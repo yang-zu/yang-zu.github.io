@@ -1,5 +1,6 @@
 ---
 title: "Covariate-augmented CUSUM bubble monitoring procedures"
+subtitle: "Real-time CUSUM procedures for monitoring the onset of explosive bubbles that gain power by exploiting information in covariates."
 description: "Astill, Taylor and Zu (forthcoming). *Econometric Theory*."
 date: 2026-02-01
 categories: ["Bubble testing", "Monitoring", "forthcoming"]

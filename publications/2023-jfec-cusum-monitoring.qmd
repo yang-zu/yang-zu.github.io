@@ -1,5 +1,6 @@
 ---
 title: "CUSUM-based monitoring for explosive episodes in financial data in the presence of time-varying volatility"
+subtitle: "A CUSUM procedure that detects explosive episodes in financial data in real time while remaining robust to time-varying volatility."
 description: "Astill, Harvey, Leybourne, Taylor and Zu (2023). *Journal of Financial Econometrics* 21, 187–227."
 date: 2023-01-01
 categories: ["Bubble testing", "Monitoring"]

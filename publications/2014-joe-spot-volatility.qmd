@@ -1,5 +1,6 @@
 ---
 title: "Estimating spot volatility with high-frequency financial data"
+subtitle: "A kernel estimator of an asset's instantaneous (spot) volatility from high-frequency prices, with its large-sample theory."
 description: "Zu and Boswijk (2014). *Journal of Econometrics* 181, 117–135."
 date: 2014-01-01
 categories: ["Volatility"]

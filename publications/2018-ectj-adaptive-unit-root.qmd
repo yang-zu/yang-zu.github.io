@@ -1,5 +1,6 @@
 ---
 title: "Adaptive wild bootstrap tests for a unit root with nonstationary volatility"
+subtitle: "Adaptive wild-bootstrap unit-root tests that are robust and efficient under nonstationary volatility."
 description: "Boswijk and Zu (2018). *Econometrics Journal* 21, 87–113."
 date: 2018-01-01
 categories: ["Unit root & cointegration", "Nonstationary volatility"]

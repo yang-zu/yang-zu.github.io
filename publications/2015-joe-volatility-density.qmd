@@ -1,5 +1,6 @@
 ---
 title: "Nonparametric specification tests for stochastic volatility models based on volatility density"
+subtitle: "Specification tests for stochastic-volatility models built from the nonparametric density of spot volatility."
 description: "Zu (2015). *Journal of Econometrics* 187, 323–344."
 date: 2015-08-01
 categories: ["Volatility", "Specification testing"]

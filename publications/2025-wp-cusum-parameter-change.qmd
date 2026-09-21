@@ -1,5 +1,6 @@
 ---
 title: "CUSUM tests for parameter change under heteroskedasticity"
+subtitle: "CUSUM tests for detecting parameter change that remain valid under heteroskedasticity."
 description: "With S. Astill, G. Cavaliere and A. M. R. Taylor. Working paper."
 date: 2025-06-01
 categories: ["Structural change", "working paper"]
