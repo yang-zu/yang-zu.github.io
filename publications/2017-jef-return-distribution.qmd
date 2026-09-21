@@ -1,0 +1,18 @@
+---
+title: "Consistent nonparametric specification tests for stochastic volatility models based on the return distribution"
+description: "Zu and Boswijk (2017). *Journal of Empirical Finance* 41, 53–75."
+date: 2017-01-01
+categories: ["Volatility", "Specification testing"]
+---
+
+Zu and Boswijk (2017). *Journal of Empirical Finance* 41, 53–75.
+
+## Links
+
+- [Journal](https://doi.org/10.1016/j.jempfin.2016.12.005)
+
+## BibTeX
+
+```bibtex
+@article{Zu_2017, title={Consistent nonparametric specification tests for stochastic volatility models based on the return distribution}, volume={41}, ISSN={0927-5398}, url={http://dx.doi.org/10.1016/j.jempfin.2016.12.005}, DOI={10.1016/j.jempfin.2016.12.005}, journal={Journal of Empirical Finance}, publisher={Elsevier BV}, author={Zu, Yang and Boswijk, H. Peter}, year={2017}, month=Mar, pages={53–75} }
+```

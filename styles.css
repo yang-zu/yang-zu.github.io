@@ -1,0 +1,35 @@
+/* Restrained academic styling. Uncomment / edit to taste. */
+
+/* Slightly softer body text */
+body {
+  line-height: 1.65;
+}
+
+/* Publication listing: tighter cards, larger title */
+.quarto-listing-default .listing-item {
+  border-bottom: 1px solid #e5e5e5;
+  padding: 0.75em 0;
+}
+
+.quarto-listing-default .listing-title {
+  font-size: 1.1em;
+  font-weight: 600;
+}
+
+.quarto-listing-default .listing-description {
+  color: #555;
+  font-style: italic;
+}
+
+.quarto-listing-default .listing-categories .listing-category {
+  font-size: 0.8em;
+  background-color: #f0f4f8;
+  border-radius: 3px;
+  padding: 1px 6px;
+  margin-right: 4px;
+}
+
+/* Navbar spacing */
+.navbar-brand {
+  font-weight: 600;
+}

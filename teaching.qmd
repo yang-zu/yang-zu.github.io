@@ -1,0 +1,22 @@
+---
+title: "Teaching"
+---
+
+## University of Macau
+
+- **Statistics II** — second-year undergraduate course.
+- **Econometrics Analysis II** — postgraduate course.
+- **Advanced Methods in Econometrics** — PhD course.
+
+## Previously
+
+**University of Nottingham** — Economic Data Analysis (postgraduate); Time Series Econometrics (postgraduate).
+
+**City, University of London** — Financial Econometrics; Numerical Methods in Finance with MATLAB; Financial Risk Management (all postgraduate).
+
+## PhD advising
+
+I supervise doctoral work in time series and financial econometrics, with a
+particular interest in bubble detection and monitoring, volatility modelling with
+high-frequency data, and inference under nonstationary volatility. Prospective
+students are welcome to get in touch.

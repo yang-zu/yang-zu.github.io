@@ -1,0 +1,18 @@
+---
+title: "Testing for equal average forecast accuracy in possibly unstable environments"
+description: "Harvey, Leybourne and Zu (2025). *Journal of Business and Economic Statistics* 43, 643–656."
+date: 2025-01-01
+categories: ["Forecast evaluation"]
+---
+
+Harvey, Leybourne and Zu (2025). *Journal of Business and Economic Statistics* 43, 643–656.
+
+## Links
+
+- [Journal](https://doi.org/10.1080/07350015.2024.2418835)
+
+## BibTeX
+
+```bibtex
+@article{Harvey_2024, title={Testing for Equal Average Forecast Accuracy in Possibly Unstable Environments}, volume={43}, ISSN={1537-2707}, url={http://dx.doi.org/10.1080/07350015.2024.2418835}, DOI={10.1080/07350015.2024.2418835}, number={3}, journal={Journal of Business &amp; Economic Statistics}, publisher={Informa UK Limited}, author={Harvey, David I. and Leybourne, Stephen J. and Zu, Yang}, year={2024}, month=Dec, pages={643–656} }
+```

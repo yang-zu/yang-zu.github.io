@@ -1,0 +1,38 @@
+---
+title: "Yang Zu"
+about:
+  template: trestles
+  image: profile.jpg
+  image-shape: rounded
+  image-width: 15em
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:yangzu@um.edu.mo
+    - icon: github
+      text: GitHub
+      href: https://github.com/zuyang1
+    - icon: file-earmark-person
+      text: CV
+      href: cv.pdf
+---
+
+I am an **Associate Professor** in the [Department of Economics](https://fss.um.edu.mo/economics/) at the **University of Macau**.
+
+My research is in **time series and financial econometrics**, with recent work on
+testing and monitoring for explosive bubbles, comparing forecasts across
+frequencies, spot volatility estimation, and unit-root and cointegration testing
+under nonstationary volatility.
+
+I received my PhD in Econometrics from the **University of Amsterdam** and the
+**Tinbergen Institute** in 2012. Before joining Macau I held positions at the
+**University of Nottingham** and **City, University of London**.
+
+---
+
+### Recent
+
+- "Improved Andrews' Formula for Testing Changing Mean" (with W. Li and X. Zhang) — forthcoming at *Economics Letters*.
+- "Covariate-augmented CUSUM bubble monitoring procedures" (with S. Astill and R. Taylor) — forthcoming at *Econometric Theory*.
+- "Statistical comparison of forecasts made at different frequencies" (with R. Zhang and W. Li) — forthcoming at *Journal of Business and Economic Statistics*.
+- "Testing for an explosive bubble using high-frequency volatility" (with H. P. Boswijk and J. Yu) — minor revision at *Management Science*.

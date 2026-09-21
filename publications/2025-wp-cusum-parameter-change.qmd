@@ -1,0 +1,23 @@
+---
+title: "CUSUM tests for parameter change under heteroskedasticity"
+description: "With S. Astill, G. Cavaliere and A. M. R. Taylor. Under review, *Econometric Reviews*."
+date: 2025-06-01
+categories: ["Structural change", "working paper"]
+---
+
+With S. Astill, G. Cavaliere and A. M. R. Taylor. Under review, *Econometric Reviews*.
+
+## Links
+
+- Under review at *Econometric Reviews*
+
+## BibTeX
+
+```bibtex
+@unpublished{astill2025cusum,
+  title  = {CUSUM tests for parameter change under heteroskedasticity},
+  author = {Astill, Sam and Cavaliere, Giuseppe and Taylor, A. M. Robert and Zu, Yang},
+  year   = {2025},
+  note   = {Under review, Econometric Reviews}
+}
+```

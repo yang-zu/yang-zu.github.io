@@ -1,0 +1,17 @@
+---
+title: "Publications"
+listing:
+  contents: publications
+  sort: "date desc"
+  type: default
+  categories: true
+  sort-ui: false
+  filter-ui: true
+  fields: [date, title, description, categories]
+  field-display-names:
+    date: "Year"
+    description: "Authors and outlet"
+page-layout: full
+---
+
+Each entry links to the journal version, working paper, replication code, and BibTeX. Working papers are tagged **working paper**; forthcoming articles are tagged **forthcoming**.

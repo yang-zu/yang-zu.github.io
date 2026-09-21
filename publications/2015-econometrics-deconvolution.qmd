@@ -1,0 +1,18 @@
+---
+title: "A note on asymptotic normality of the kernel deconvolution density estimator with logarithmic chi-square noise"
+description: "Zu (2015). *Econometrics* 3, 561–576."
+date: 2015-09-01
+categories: ["Volatility"]
+---
+
+Zu (2015). *Econometrics* 3, 561–576.
+
+## Links
+
+- [Journal](https://doi.org/10.3390/econometrics3030561)
+
+## BibTeX
+
+```bibtex
+@article{Zu_2015, title={A Note on the Asymptotic Normality of the Kernel Deconvolution Density Estimator with Logarithmic Chi-Square Noise}, volume={3}, ISSN={2225-1146}, url={http://dx.doi.org/10.3390/econometrics3030561}, DOI={10.3390/econometrics3030561}, number={3}, journal={Econometrics}, publisher={MDPI AG}, author={Zu, Yang}, year={2015}, month=July, pages={561–576} }
+```

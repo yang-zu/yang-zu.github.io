@@ -1,0 +1,18 @@
+---
+title: "CUSUM-based monitoring for explosive episodes in financial data in the presence of time-varying volatility"
+description: "Astill, Harvey, Leybourne, Taylor and Zu (2023). *Journal of Financial Econometrics* 21, 187–227."
+date: 2023-01-01
+categories: ["Bubble testing", "Monitoring"]
+---
+
+Astill, Harvey, Leybourne, Taylor and Zu (2023). *Journal of Financial Econometrics* 21, 187–227.
+
+## Links
+
+- [Journal](https://doi.org/10.1093/jjfinec/nbab009)
+
+## BibTeX
+
+```bibtex
+@article{Astill_2021, title={CUSUM-Based Monitoring for Explosive Episodes in Financial Data in the Presence of Time-Varying Volatility}, volume={21}, ISSN={1479-8417}, url={http://dx.doi.org/10.1093/jjfinec/nbab009}, DOI={10.1093/jjfinec/nbab009}, number={1}, journal={Journal of Financial Econometrics}, publisher={Oxford University Press (OUP)}, author={Astill, Sam and Harvey, David I and Leybourne, Stephen J and Taylor, A M Robert and Zu, Yang}, year={2021}, month=May, pages={187–227} }
+```

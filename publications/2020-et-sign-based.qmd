@@ -1,0 +1,18 @@
+---
+title: "Sign-based unit root tests for explosive financial bubbles in the presence of deterministically time-varying volatility"
+description: "Harvey, Leybourne and Zu (2020). *Econometric Theory* 36, 122–169."
+date: 2020-01-01
+categories: ["Bubble testing", "Time-varying volatility"]
+---
+
+Harvey, Leybourne and Zu (2020). *Econometric Theory* 36, 122–169.
+
+## Links
+
+- [Journal](https://doi.org/10.1017/S0266466619000057)
+
+## BibTeX
+
+```bibtex
+@article{Harvey_2019, title={SIGN-BASED UNIT ROOT TESTS FOR EXPLOSIVE FINANCIAL BUBBLES IN THE PRESENCE OF DETERMINISTICALLY TIME-VARYING VOLATILITY}, volume={36}, ISSN={1469-4360}, url={http://dx.doi.org/10.1017/S0266466619000057}, DOI={10.1017/s0266466619000057}, number={1}, journal={Econometric Theory}, publisher={Cambridge University Press (CUP)}, author={Harvey, David I. and Leybourne, Stephen J. and Zu, Yang}, year={2019}, month=Mar, pages={122–169} }
+```

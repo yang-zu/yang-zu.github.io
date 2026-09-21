@@ -1,0 +1,23 @@
+---
+title: "Testing for an explosive bubble using high-frequency volatility"
+description: "With H. P. Boswijk and J. Yu. Minor revision, *Management Science*."
+date: 2025-06-02
+categories: ["Bubble testing", "working paper"]
+---
+
+With H. P. Boswijk and J. Yu. Minor revision, *Management Science*.
+
+## Links
+
+- Under review — minor revision at *Management Science*
+
+## BibTeX
+
+```bibtex
+@unpublished{boswijk2025testing,
+  title  = {Testing for an explosive bubble using high-frequency volatility},
+  author = {Boswijk, H. Peter and Yu, Jun and Zu, Yang},
+  year   = {2025},
+  note   = {Minor revision, Management Science}
+}
+```

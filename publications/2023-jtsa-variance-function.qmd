@@ -1,0 +1,18 @@
+---
+title: "Estimation of the variance function in structural break autoregressive models with non-stationary and explosive segments"
+description: "Harvey, Leybourne and Zu (2023). *Journal of Time Series Analysis* 44, 181–205."
+date: 2023-03-01
+categories: ["Bubble testing", "Volatility"]
+---
+
+Harvey, Leybourne and Zu (2023). *Journal of Time Series Analysis* 44, 181–205.
+
+## Links
+
+- [Journal](https://doi.org/10.1111/jtsa.12660)
+
+## BibTeX
+
+```bibtex
+@article{Harvey_2022, title={Estimation of the variance function in structural break autoregressive models with non‐stationary and explosive segments}, volume={44}, ISSN={1467-9892}, url={http://dx.doi.org/10.1111/jtsa.12660}, DOI={10.1111/jtsa.12660}, number={2}, journal={Journal of Time Series Analysis}, publisher={Wiley}, author={Harvey, David I. and Leybourne, Stephen J. and Zu, Yang}, year={2022}, month=July, pages={181–205} }
+```

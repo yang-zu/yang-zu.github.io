@@ -1,0 +1,18 @@
+---
+title: "Adaptive testing for cointegration with nonstationary volatility"
+description: "Boswijk and Zu (2022). *Journal of Business and Economic Statistics* 40, 744–755."
+date: 2022-01-01
+categories: ["Unit root & cointegration", "Nonstationary volatility"]
+---
+
+Boswijk and Zu (2022). *Journal of Business and Economic Statistics* 40, 744–755.
+
+## Links
+
+- [Journal](https://doi.org/10.1080/07350015.2020.1867558)
+
+## BibTeX
+
+```bibtex
+@article{Boswijk_2021, title={Adaptive Testing for Cointegration With Nonstationary Volatility}, volume={40}, ISSN={1537-2707}, url={http://dx.doi.org/10.1080/07350015.2020.1867558}, DOI={10.1080/07350015.2020.1867558}, number={2}, journal={Journal of Business &amp; Economic Statistics}, publisher={Informa UK Limited}, author={Boswijk, H. Peter and Zu, Yang}, year={2021}, month=Feb, pages={744–755} }
+```

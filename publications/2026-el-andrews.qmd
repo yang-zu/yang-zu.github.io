@@ -1,0 +1,24 @@
+---
+title: "Improved Andrews' formula for testing changing mean"
+description: "Li, Zhang and Zu (forthcoming). *Economics Letters*."
+date: 2026-01-02
+categories: ["Structural change", "forthcoming"]
+---
+
+Li, Zhang and Zu (forthcoming). *Economics Letters*.
+
+## Links
+
+- Journal — forthcoming
+
+## BibTeX
+
+```bibtex
+@article{li2026improved,
+  title   = {Improved Andrews' formula for testing changing mean},
+  author  = {Li, Wei and Zhang, Xinyue and Zu, Yang},
+  journal = {Economics Letters},
+  year    = {2026},
+  note    = {forthcoming}
+}
+```

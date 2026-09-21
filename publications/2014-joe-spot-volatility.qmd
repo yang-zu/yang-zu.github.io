@@ -1,0 +1,18 @@
+---
+title: "Estimating spot volatility with high-frequency financial data"
+description: "Zu and Boswijk (2014). *Journal of Econometrics* 181, 117–135."
+date: 2014-01-01
+categories: ["Volatility"]
+---
+
+Zu and Boswijk (2014). *Journal of Econometrics* 181, 117–135.
+
+## Links
+
+- [Journal](https://doi.org/10.1016/j.jeconom.2014.04.001)
+
+## BibTeX
+
+```bibtex
+@article{Zu_2014, title={Estimating spot volatility with high-frequency financial data}, volume={181}, ISSN={0304-4076}, url={http://dx.doi.org/10.1016/j.jeconom.2014.04.001}, DOI={10.1016/j.jeconom.2014.04.001}, number={2}, journal={Journal of Econometrics}, publisher={Elsevier BV}, author={Zu, Yang and Peter Boswijk, H.}, year={2014}, month=Aug, pages={117–135} }
+```

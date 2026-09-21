@@ -1,0 +1,18 @@
+---
+title: "Nonparametric specification tests for stochastic volatility models based on volatility density"
+description: "Zu (2015). *Journal of Econometrics* 187, 323–344."
+date: 2015-08-01
+categories: ["Volatility", "Specification testing"]
+---
+
+Zu (2015). *Journal of Econometrics* 187, 323–344.
+
+## Links
+
+- [Journal](https://doi.org/10.1016/j.jeconom.2015.02.045)
+
+## BibTeX
+
+```bibtex
+@article{Zu_2015, title={Nonparametric specification tests for stochastic volatility models based on volatility density}, volume={187}, ISSN={0304-4076}, url={http://dx.doi.org/10.1016/j.jeconom.2015.02.045}, DOI={10.1016/j.jeconom.2015.02.045}, number={1}, journal={Journal of Econometrics}, publisher={Elsevier BV}, author={Zu, Yang}, year={2015}, month=July, pages={323–344} }
+```

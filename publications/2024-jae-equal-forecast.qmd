@@ -1,0 +1,18 @@
+---
+title: "Tests for equal forecast accuracy under heteroskedasticity"
+description: "Harvey, Leybourne and Zu (2024). *Journal of Applied Econometrics* 39, 850–869."
+date: 2024-01-01
+categories: ["Forecast evaluation"]
+---
+
+Harvey, Leybourne and Zu (2024). *Journal of Applied Econometrics* 39, 850–869.
+
+## Links
+
+- [Journal](https://doi.org/10.1002/jae.3050)
+
+## BibTeX
+
+```bibtex
+@article{Harvey_2024, title={Tests for equal forecast accuracy under heteroskedasticity}, volume={39}, ISSN={1099-1255}, url={http://dx.doi.org/10.1002/jae.3050}, DOI={10.1002/jae.3050}, number={5}, journal={Journal of Applied Econometrics}, publisher={Wiley}, author={Harvey, David I. and Leybourne, Stephen J. and Zu, Yang}, year={2024}, month=Apr, pages={850–869} }
+```

@@ -1,0 +1,36 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Yang Zu"
+  description: "Time series and financial econometrics — University of Macau"
+  site-url: https://zuyang1.github.io
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: publications.qmd
+        text: Publications
+      - href: teaching.qmd
+        text: Teaching
+      - href: cv.pdf
+        text: CV
+    right:
+      - icon: envelope
+        href: mailto:yangzu@um.edu.mo
+        aria-label: Email
+      - icon: github
+        href: https://github.com/zuyang1
+        aria-label: GitHub
+  page-footer:
+    left: "© Yang Zu"
+    right: "Built with [Quarto](https://quarto.org)"
+
+format:
+  html:
+    theme: cosmo         # try: litera, flatly, journal, zephyr for different feels
+    css: styles.css
+    toc: false
+    fontsize: 1.05em
+    linkcolor: "#1a5490"

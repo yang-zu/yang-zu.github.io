@@ -1,0 +1,18 @@
+---
+title: "Testing explosive bubbles with time-varying volatility"
+description: "Harvey, Leybourne and Zu (2019). *Econometric Reviews* 38, 1131–1151."
+date: 2019-01-01
+categories: ["Bubble testing", "Time-varying volatility"]
+---
+
+Harvey, Leybourne and Zu (2019). *Econometric Reviews* 38, 1131–1151.
+
+## Links
+
+- [Journal](https://doi.org/10.1080/07474938.2018.1536099)
+
+## BibTeX
+
+```bibtex
+@article{Harvey_2018, title={Testing explosive bubbles with time-varying volatility}, volume={38}, ISSN={1532-4168}, url={http://dx.doi.org/10.1080/07474938.2018.1536099}, DOI={10.1080/07474938.2018.1536099}, number={10}, journal={Econometric Reviews}, publisher={Informa UK Limited}, author={Harvey, David I. and Leybourne, Stephen J. and Zu, Yang}, year={2018}, month=Dec, pages={1131–1151} }
+```

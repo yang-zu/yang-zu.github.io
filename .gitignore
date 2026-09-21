@@ -1,0 +1,43 @@
+# Generated outputs — regenerate from source instead of tracking
+outputs/*.pdf
+outputs/*.png
+outputs/*.tex
+outputs/*.csv
+
+# MATLAB
+*.asv
+*.mex*
+*.mat            # unless you need to ship saved results — then whitelist below
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+.env
+.ipynb_checkpoints/
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+
+# LaTeX
+*.aux
+*.log
+*.out
+*.toc
+*.bbl
+*.blg
+*.synctex.gz
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Quarto
+/_site/
+/.quarto/
+
+**/*.quarto_ipynb

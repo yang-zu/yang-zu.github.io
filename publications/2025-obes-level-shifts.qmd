@@ -1,0 +1,18 @@
+---
+title: "Unit root tests for explosive financial bubbles in the presence of deterministic level shifts"
+description: "Harvey, Leybourne, Tatlow and Zu (2025). *Oxford Bulletin of Economics and Statistics*."
+date: 2025-03-01
+categories: ["Bubble testing"]
+---
+
+Harvey, Leybourne, Tatlow and Zu (2025). *Oxford Bulletin of Economics and Statistics*.
+
+## Links
+
+- [Journal](https://doi.org/10.1111/obes.12668)
+
+## BibTeX
+
+```bibtex
+@article{Harvey_2025, title={Unit Root Tests for Explosive Financial Bubbles in the Presence of Deterministic Level Shifts}, volume={87}, ISSN={1468-0084}, url={http://dx.doi.org/10.1111/obes.12668}, DOI={10.1111/obes.12668}, number={5}, journal={Oxford Bulletin of Economics and Statistics}, publisher={Wiley}, author={Harvey, David I. and Leybourne, Stephen J. and Tatlow, Benjamin S. and Zu, Yang}, year={2025}, month=Mar, pages={880–898} }
+```

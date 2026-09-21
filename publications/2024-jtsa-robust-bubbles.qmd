@@ -1,0 +1,18 @@
+---
+title: "A new heteroskedasticity-robust test for explosive bubbles"
+description: "Harvey, Leybourne, Taylor and Zu (2024). *Journal of Time Series Analysis*."
+date: 2024-06-01
+categories: ["Bubble testing", "Time-varying volatility"]
+---
+
+Harvey, Leybourne, Taylor and Zu (2024). *Journal of Time Series Analysis*.
+
+## Links
+
+- [Journal](https://doi.org/10.1111/jtsa.12784)
+
+## BibTeX
+
+```bibtex
+@article{Harvey_2024, title={A new heteroskedasticity‐robust test for explosive bubbles}, volume={46}, ISSN={1467-9892}, url={http://dx.doi.org/10.1111/jtsa.12784}, DOI={10.1111/jtsa.12784}, number={5}, journal={Journal of Time Series Analysis}, publisher={Wiley}, author={Harvey, David I. and Leybourne, Stephen J. and Taylor, A. M. Robert and Zu, Yang}, year={2024}, month=Oct, pages={846–866} }
+```

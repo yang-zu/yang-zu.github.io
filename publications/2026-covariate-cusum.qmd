@@ -1,0 +1,18 @@
+---
+title: "Covariate-augmented CUSUM bubble monitoring procedures"
+description: "Astill, Taylor and Zu (forthcoming). *Econometric Theory*."
+date: 2026-02-01
+categories: ["Bubble testing", "Monitoring", "forthcoming"]
+---
+
+Astill, Taylor and Zu (forthcoming). *Econometric Theory*.
+
+## Links
+
+- [Journal](https://doi.org/10.1017/s0266466626100383)
+
+## BibTeX
+
+```bibtex
+@article{Astill_2026, title={COVARIATE-AUGMENTED CUSUM BUBBLE MONITORING PROCEDURES}, ISSN={1469-4360}, url={http://dx.doi.org/10.1017/s0266466626100383}, DOI={10.1017/s0266466626100383}, journal={Econometric Theory}, publisher={Cambridge University Press (CUP)}, author={Astill, Sam and Taylor, A. M. Robert and Zu, Yang}, year={2026}, month=June, pages={1–29} }
+```

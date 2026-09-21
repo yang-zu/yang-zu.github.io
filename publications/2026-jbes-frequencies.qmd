@@ -1,0 +1,18 @@
+---
+title: "Statistical comparison of forecasts made at different frequencies"
+description: "Zhang, Zu and Li (forthcoming). *Journal of Business and Economic Statistics*."
+date: 2026-01-15
+categories: ["Forecast evaluation", "forthcoming"]
+---
+
+Zhang, Zu and Li (forthcoming). *Journal of Business and Economic Statistics*.
+
+## Links
+
+- [Journal](https://doi.org/10.1080/07350015.2026.2634825)
+
+## BibTeX
+
+```bibtex
+@article{Zhang_2026, title={Statistical Comparison of Forecasts Made at Different Frequencies}, ISSN={1537-2707}, url={http://dx.doi.org/10.1080/07350015.2026.2634825}, DOI={10.1080/07350015.2026.2634825}, journal={Journal of Business &amp; Economic Statistics}, publisher={Informa UK Limited}, author={Zhang, Rongmao and Zu, Yang and Li, Wei}, year={2026}, month=May, pages={1–13} }
+```
