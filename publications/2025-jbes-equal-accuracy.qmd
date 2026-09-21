@@ -6,6 +6,10 @@ date: 2025-01-01
 categories: ["Forecast evaluation", "code"]
 ---
 
+## Abstract
+
+We consider the issue of testing the null of equal average forecast accuracy in a model where the forecast error loss differential series has a potentially nonconstant mean function over time. We show that when time variation is present in the loss differential mean, the standard Diebold and Mariano test, which was proposed for evaluating forecasts in a stable environment, has an asymptotic size of zero, and, whilst consistent, can have reduced local power. This arises due to inconsistent estimation of the implicit long run variance estimator, which diverges under a time varying mean. We suggest a modified statistic that replaces the standard long run variance estimator based on full-sample demeaning of the loss differential series with one based on nonparametric local demeaning. The new long run variance estimator is consistent under both the null and alternative when the mean function is time varying or constant, and in both cases, the modified test recovers the asymptotic size and power properties associated with the original test in the constant mean case. The modified test therefore provides a robust method for testing the equal average forecast accuracy null, allowing for instability in the loss differential mean. The benefits of our test are demonstrated via Monte Carlo simulation and two empirical applications.
+
 ## Links
 
 - [Journal](https://doi.org/10.1080/07350015.2024.2418835)

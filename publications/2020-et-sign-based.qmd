@@ -6,6 +6,10 @@ date: 2020-01-01
 categories: ["Bubble testing", "Time-varying volatility"]
 ---
 
+## Abstract
+
+This article considers the problem of testing for an explosive bubble in financial data in the presence of time-varying volatility. We propose a sign-based variant of the Phillips, Shi, and Yu (2015, International Economic Review 56, 1043–1077) test. Unlike the original test, the sign-based test does not require bootstrap-type methods to control size in the presence of time-varying volatility. Under a locally explosive alternative, the sign-based test delivers higher power than the original test for many time-varying volatility and bubble specifications. However, since the original test can still outperform the sign-based one for some specifications, we also propose a union of rejections procedure that combines the original and sign-based tests, employing a wild bootstrap to control size. This is shown to capture most of the power available from the better performing of the two tests. We also show how a sign-based statistic can be used to date the bubble start and end points. An empirical illustration using Bitcoin price data is provided.
+
 ## Links
 
 - [Journal](https://doi.org/10.1017/S0266466619000057)

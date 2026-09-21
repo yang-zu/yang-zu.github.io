@@ -6,6 +6,10 @@ date: 2024-06-01
 categories: ["Bubble testing", "Time-varying volatility"]
 ---
 
+## Abstract
+
+We propose a new class of modified regression‐based tests for detecting asset price bubbles designed to be robust to the presence of general forms of both conditional and unconditional heteroskedasticity in the price series. This modification, based on the approach developed in Beare (2018) in the context of conventional unit root testing, is achieved by purging the impact of unconditional heteroskedasticity from the data using a kernel estimate of volatility before the application of the bubble detection methods proposed in Phillips, Shi and Yu (2015) (PSY). The modified statistic is shown to achieve the same limiting null distribution as the corresponding (heteroskedasticity‐uncorrected) statistic from PSY would obtain under homoskedasticity, such that the usual critical values provided in PSY may still be used. Versions of the test based on regressions including either no intercept or a (redundant) intercept are considered. Representations for asymptotic local power against a single bubble model are also derived. Monte Carlo simulation results highlight that neither one of these tests dominates the other across different bubble locations and magnitudes, and across different models of time‐varying volatility. Accordingly, we also propose a test based on a union of rejections between the with‐ and without‐intercept variants of the modified PSY test. The union procedure is shown to perform almost as well as the better of the constituent tests for a given DGP, and also performs very well compared to existing heteroskedasticity‐robust tests across a large range of simulation DGPs.
+
 ## Links
 
 - [Journal](https://doi.org/10.1111/jtsa.12784)

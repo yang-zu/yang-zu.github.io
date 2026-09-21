@@ -6,6 +6,10 @@ date: 2026-02-01
 categories: ["Bubble testing", "Monitoring", "forthcoming"]
 ---
 
+## Abstract
+
+We explore how information from covariates can be incorporated into the CUSUM-based real-time monitoring procedure for explosive asset price bubbles developed in Homm and Breitung (2012, Journal of Financial Econometrics 10, 198–231). Where dynamic covariates are present in the data generating process (DGP), the false positive rate (FPR) of the basic CUSUM procedure, which is based on the assumption that prices follow a univariate DGP, under the null of no explosivity will not, in general, be properly controlled, even asymptotically. In contrast, accounting for these relevant covariates in the construction of the CUSUM statistics leads to a procedure whose FPR can be controlled using the same asymptotic crossing function as employed by Homm and Breitung (2012). Doing so is also shown to have the potential to significantly increase the chance of detecting an emerging bubble episode in finite samples. We additionally allow for time-varying volatility in the innovations driving the model through the use of a kernel-based variance estimator.
+
 ## Links
 
 - [Journal](https://doi.org/10.1017/s0266466626100383)

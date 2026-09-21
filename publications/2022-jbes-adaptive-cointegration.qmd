@@ -6,6 +6,10 @@ date: 2022-01-01
 categories: ["Unit root & cointegration", "Nonstationary volatility", "code"]
 ---
 
+## Abstract
+
+This article develops a class of adaptive cointegration tests for multivariate time series with nonstationary volatility. Persistent changes in the innovation variance matrix of a vector autoregressive model lead to size distortions in conventional cointegration tests, which may be resolved using the wild bootstrap, as shown in recent work by Cavaliere, Rahbek, and Taylor. We show that it also leads to the possibility of constructing tests with higher power, by taking the time-varying volatilities and correlations into account in the formulation of the likelihood function and the resulting likelihood ratio test statistic. We find that under suitable conditions, adaptation with respect to the volatility process is possible, in the sense that nonparametric volatility matrix estimation does not lead to a loss of asymptotic local power relative to the case where the volatilities are observed. The asymptotic null distribution of the test is nonstandard and depends on the volatility process; we show that various bootstrap implementations may be used to conduct asymptotically valid inference. Monte Carlo simulations show that the resulting test has good size properties, and higher power than existing tests. Empirical analyses of the U.S. term structure of interest rates and purchasing power parity illustrate the applicability of the tests.
+
 ## Links
 
 - [Journal](https://doi.org/10.1080/07350015.2020.1867558)

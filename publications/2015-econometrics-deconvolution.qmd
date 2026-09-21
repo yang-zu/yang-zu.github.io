@@ -6,6 +6,10 @@ date: 2015-09-01
 categories: ["Volatility"]
 ---
 
+## Abstract
+
+This paper studies the asymptotic normality for the kernel deconvolution estimator when the noise distribution is logarithmic chi-square; both identical and independently distributed observations and strong mixing observations are considered. The dependent case of the result is applied to obtain the pointwise asymptotic distribution of the deconvolution volatility density estimator in discrete-time stochastic volatility models.
+
 ## Links
 
 - [Journal](https://doi.org/10.3390/econometrics3030561)

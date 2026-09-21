@@ -6,6 +6,10 @@ date: 2015-08-01
 categories: ["Volatility", "Specification testing", "code"]
 ---
 
+## Abstract
+
+This paper develops a specification test for stochastic volatility models by comparing the nonparametric kernel deconvolution density estimator of an integrated volatility density with its parametric counterpart. L2 distance is used to measure the discrepancy. The asymptotic null distributions of the test statistics are established and the asymptotic power functions are computed. Through Monte Carlo simulations, the size and power properties of the test statistics are studied. The tests are applied to an empirical example.
+
 ## Links
 
 - [Journal](https://doi.org/10.1016/j.jeconom.2015.02.045)

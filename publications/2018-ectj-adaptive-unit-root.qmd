@@ -6,6 +6,10 @@ date: 2018-01-01
 categories: ["Unit root & cointegration", "Nonstationary volatility", "code"]
 ---
 
+## Abstract
+
+Recent research has emphasised that permanent changes in the innovation variance (caused by structural shifts or an integrated volatility process) lead to size distortions in conventional unit root tests. Cavaliere and Taylor (2008) show how these size distortions may be resolved using the wild bootstrap. In this paper, we first derive the asymptotic power envelope for the unit root testing problem when the nonstationary volatility process is known. Next, we show that under suitable conditions, adaptation with respect to the volatility process is possible, in the sense that nonparametric estimation of the volatility process leads to the same asymptotic power envelope. Implementation of the resulting test involves cross-validation and the wild bootstrap. A Monte Carlo experiment shows that the asymptotic results are reflected in finite sample properties, and an empirical analysis of real exchange rates illustrates the applicability of the proposed procedures.
+
 ## Links
 
 - [Journal](https://doi.org/10.1111/ectj.12100)

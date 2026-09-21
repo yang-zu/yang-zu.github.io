@@ -6,6 +6,10 @@ date: 2014-01-01
 categories: ["Volatility", "code"]
 ---
 
+## Abstract
+
+We construct a spot volatility estimator for high-frequency financial data which contain market microstructure noise. We prove consistency and derive the asymptotic distribution of the estimator. A data-driven method is proposed to select the scale parameter and the bandwidth parameter in the estimator. In Monte Carlo simulations, we compare the finite sample performance of our estimator with some existing estimators. Empirical examples are given to illustrate the potential applications of the estimator.
+
 ## Links
 
 - [Journal](https://doi.org/10.1016/j.jeconom.2014.04.001)

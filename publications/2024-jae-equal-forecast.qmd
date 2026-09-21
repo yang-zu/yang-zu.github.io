@@ -6,6 +6,10 @@ date: 2024-01-01
 categories: ["Forecast evaluation", "code"]
 ---
 
+## Abstract
+
+Heteroskedasticity is a common feature in empirical time series analysis, and in this paper, we consider the effects of heteroskedasticity on statistical tests for equal forecast accuracy. In such a context, we propose two new Diebold–Mariano‐type tests for equal accuracy that employ nonparametric estimation of the loss differential variance function. We demonstrate that these tests have the potential to achieve power improvements relative to the original Diebold–Mariano test in the presence of heteroskedasticity, for a quite general class of loss differential series. The size validity and potential power superiority of our new tests are studied theoretically and in Monte Carlo simulations. We apply our new tests to competing forecasts of changes in the dollar/sterling exchange rate and find the new tests provide greater evidence of differences in forecast accuracy than the original Diebold–Mariano test, illustrating the value of these new procedures for practitioners.
+
 ## Links
 
 - [Journal](https://doi.org/10.1002/jae.3050)

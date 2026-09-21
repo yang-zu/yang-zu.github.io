@@ -6,6 +6,10 @@ date: 2026-01-15
 categories: ["Forecast evaluation", "forthcoming", "code"]
 ---
 
+## Abstract
+
+Current forecast evaluation tests can only assess forecasts generated at the same frequency. However, in real-world scenarios, predictions for the same economic variable may be made at different frequencies. The existing literature lacks statistical tests for evaluating such forecasts. This paper introduces a new evaluation test for comparing these forecasts. We propose a two-sample $t$-type test designed to test the equality of means between two potentially correlated time series that are sampled at different frequencies. No current estimator can compute the variance needed to studentize the difference in the sample means, given the potential temporal and cross-correlations, alongside the mixed-frequency nature of the related data. To address this, we propose a block-average-based variance estimator for this purpose. We derive the asymptotic null distribution of our new two-sample $t$ statistic and analyze the test's local power. Through extensive Monte Carlo simulations, our two-sample test demonstrates favorable size and power properties in finite samples. Notably, in cases with small sample sizes, our approach outperforms existing heuristic methods, which involve discarding data to align forecasts and applying conventional tests. Additionally, we uncover interesting connections with relevant methods in the literature.
+
 ## Links
 
 - [Journal](https://doi.org/10.1080/07350015.2026.2634825)

@@ -6,6 +6,10 @@ date: 2025-03-01
 categories: ["Bubble testing"]
 ---
 
+## Abstract
+
+This article considers the issue of testing for an explosive bubble in financial time series in the presence of deterministic level shifts. We demonstrate that the sign‐based variants of the Phillips‐Shi‐Yu test retain their asymptotic validity in the presence of level shifts under a weak restriction on the number of shifts that occur. This is in contrast to the original Phillips‐Shi‐Yu test which only remains valid under a joint restriction involving both the number and magnitudes of the level shifts. We find, through Monte Carlo simulation, that the original test can display substantial over‐size in the presence of level shifts, without a corresponding increase in power, while the sign‐based variants are largely unaffected in both regards. The sign‐based tests therefore offer robust and powerful methods for detecting an explosive autoregressive regime in a financial time series that potentially contains level shifts. Empirical applications of the different tests are provided using intraday Bitcoin log price data and daily Nasdaq price data.
+
 ## Links
 
 - [Journal](https://doi.org/10.1111/obes.12668)

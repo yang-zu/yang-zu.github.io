@@ -6,6 +6,10 @@ date: 2023-01-01
 categories: ["Bubble testing", "Monitoring"]
 ---
 
+## Abstract
+
+We generalize the Homm and Breitung (2012) CUSUM-based procedure for the real-time detection of explosive autoregressive episodes in financial price data to allow for time-varying volatility. Such behavior can heavily inflate the false positive rate (FPR) of the CUSUM-based procedure to spuriously signal the presence of an explosive episode. Our modified procedure involves replacing the standard variance estimate in the CUSUM statistics with a nonparametric kernel-based spot variance estimate. We show that the sequence of modified CUSUM statistics has a joint limiting null distribution which is invariant to any time-varying volatility present in the innovations and that this delivers a real-time monitoring procedure whose theoretical FPR is controlled. Simulations show that the modification is effective in controlling the empirical FPR of the procedure, yet sacrifices only a small amount of power to detect explosive episodes, relative to the standard procedure, when the shocks are homoskedastic. An empirical illustration using Bitcoin price data is provided.
+
 ## Links
 
 - [Journal](https://doi.org/10.1093/jjfinec/nbab009)

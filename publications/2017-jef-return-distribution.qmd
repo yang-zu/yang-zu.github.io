@@ -6,6 +6,10 @@ date: 2017-01-01
 categories: ["Volatility", "Specification testing", "code"]
 ---
 
+## Abstract
+
+This paper develops nonparametric specification tests for stochastic volatility models by comparing the nonparametically estimated return density and distribution functions with their parametric counterparts. Asymptotic null distributions of the tests are derived and the tests are shown to be consistent. Extensive Monte Carlo experiments are performed to study the finite sample properties of the tests. The proposed tests are applied in a number of empirical examples.
+
 ## Links
 
 - [Journal](https://doi.org/10.1016/j.jempfin.2016.12.005)

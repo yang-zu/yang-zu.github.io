@@ -6,6 +6,10 @@ date: 2023-03-01
 categories: ["Bubble testing", "Volatility", "code"]
 ---
 
+## Abstract
+
+In this article, we consider estimating the innovation variance function when the conditional mean model is characterised by a structural break autoregressive model, which exhibits multiple unit root, explosive and stationary collapse segments, allowing for behaviour often seen in financial data where bubble and crash episodes are present. Estimating the variance function normally proceeds in two steps: estimating the conditional mean model, then using the residuals to estimate the variance function. In this article, a non‐parametric approach is proposed to estimate the complicated parametric conditional mean model in the first step. The approach turns out to provide a convenient solution to the problem and achieve robustness to any structural break features in the conditional mean model without the need of estimating them parametrically. In the second step, kernel‐smoothed squares of the truncated first‐step residuals are shown to consistently estimate the variance function. In Monte Carlo simulations, we show that our proposed method performs very well in the presence of explosive and stationary collapse segments compared with the popular rolling standard deviation estimator that is commonly used in economics and finance. As an empirical illustration of our new approach, we apply the volatility estimator to recent Bitcoin data.
+
 ## Links
 
 - [Journal](https://doi.org/10.1111/jtsa.12660)

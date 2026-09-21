@@ -6,6 +6,10 @@ date: 2025-06-02
 categories: ["Bubble testing", "working paper"]
 ---
 
+## Abstract
+
+Based on a continuous-time stochastic volatility model with a linear drift, we develop a test for explosive behavior in financial asset prices at a low frequency when prices are sampled at a higher frequency. The test exploits the volatility information in the high-frequency data. The method consists of devolatizing log-asset price increments with realized volatility measures and performing a supremum-type recursive Dickey-Fuller test on the devolatized sample. The proposed test has a nuisance-parameter-free asymptotic distribution and is easy to implement. We study the size and power properties of the test in Monte Carlo simulations. A real-time date-stamping strategy based on the devolatized sample is proposed for the origination and conclusion dates of the explosive regime. Conditions under which the real-time date-stamping strategy is consistent are established. The test and the date-stamping strategy are applied to study explosive behavior in cryptocurrency and stock markets.
+
 ## BibTeX
 
 ```bibtex

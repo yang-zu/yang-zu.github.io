@@ -6,6 +6,10 @@ date: 2026-01-02
 categories: ["Structural change", "forthcoming", "code"]
 ---
 
+## Abstract
+
+We propose a robust bandwidth rule for the classical CUSUM and QS tests for shifts in the mean of a time series: the AR(1) coefficient entering Andrews' (1991) data-driven HAC bandwidth is truncated at a fixed threshold $p_0<1$, with $p_0$ selected by a simulation-based procedure that controls empirical size against a user-specified persistence robustness target. The truncated bandwidth is shown to be free from the asymptotic power reversal problem under the diverging-alternatives framework of Juhl and Xiao (2009). Monte Carlo evidence indicates that the CUSUM and QS tests implemented with this bandwidth deliver good size control and monotonic power across a range of break designs and persistence levels.
+
 ## Links
 
 - Journal — forthcoming
