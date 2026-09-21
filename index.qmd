@@ -11,7 +11,7 @@ about:
       href: mailto:yangzu@um.edu.mo
     - icon: github
       text: GitHub
-      href: https://github.com/zuyang1
+      href: https://github.com/yang-zu
     - icon: file-earmark-person
       text: CV
       href: cv.pdf

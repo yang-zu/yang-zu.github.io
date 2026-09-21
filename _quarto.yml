@@ -5,7 +5,7 @@ project:
 website:
   title: "Yang Zu"
   description: "Time series and financial econometrics — University of Macau"
-  site-url: https://zuyang1.github.io
+  site-url: https://yang-zu.github.io
   navbar:
     left:
       - href: index.qmd
@@ -21,7 +21,7 @@ website:
         href: mailto:yangzu@um.edu.mo
         aria-label: Email
       - icon: github
-        href: https://github.com/zuyang1
+        href: https://github.com/yang-zu
         aria-label: GitHub
   page-footer:
     left: "© Yang Zu"

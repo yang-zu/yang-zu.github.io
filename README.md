@@ -1,9 +1,9 @@
-# zuyang1.github.io
+# yang-zu.github.io
 
 Personal academic website for **Yang Zu** (Associate Professor of Economics, University of Macau),
 built with [Quarto](https://quarto.org) and deployed to GitHub Pages.
 
-Live site: <https://zuyang1.github.io>
+Live site: <https://yang-zu.github.io>
 
 ## Structure
 
