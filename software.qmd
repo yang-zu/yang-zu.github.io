@@ -72,3 +72,19 @@ the return distribution (L2 density and Cramér–von Mises tests).
 
 - Repository: [github.com/yang-zu/sv-return-distribution-test](https://github.com/yang-zu/sv-return-distribution-test)
 - Paper: Zu and Boswijk (2017), *Journal of Empirical Finance* — see [Research](research.qmd)
+
+### spot-volatility-hf  <span style="font-weight:400;color:var(--bs-secondary-color)">(Ox)</span>
+
+Ox implementation of the noise-robust local two-scale (TSRV) spot-volatility estimator for
+high-frequency prices, with a local realised-volatility estimator and data-driven tuning.
+
+- Repository: [github.com/yang-zu/spot-volatility-hf](https://github.com/yang-zu/spot-volatility-hf)
+- Paper: Zu and Boswijk (2014), *Journal of Econometrics* — see [Research](research.qmd)
+
+### variance-function-breaks  <span style="font-weight:400;color:var(--bs-secondary-color)">(MATLAB)</span>
+
+MATLAB implementation of the truncated local-least-squares estimator of the innovation
+variance function in autoregressions with structural breaks and explosive segments.
+
+- Repository: [github.com/yang-zu/variance-function-breaks](https://github.com/yang-zu/variance-function-breaks)
+- Paper: Harvey, Leybourne and Zu (2023), *Journal of Time Series Analysis* — see [Research](research.qmd)

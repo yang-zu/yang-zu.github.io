@@ -3,7 +3,7 @@ title: "Estimation of the variance function in structural break autoregressive m
 subtitle: "Estimates the time-varying variance function in autoregressive models whose segments may be non-stationary or explosive."
 description: "Harvey, Leybourne and Zu (2023). *Journal of Time Series Analysis* 44, 181–205."
 date: 2023-03-01
-categories: ["Bubble testing", "Volatility"]
+categories: ["Bubble testing", "Volatility", "code"]
 ---
 
 Harvey, Leybourne and Zu (2023). *Journal of Time Series Analysis* 44, 181–205.
@@ -11,6 +11,7 @@ Harvey, Leybourne and Zu (2023). *Journal of Time Series Analysis* 44, 181–205
 ## Links
 
 - [Journal](https://doi.org/10.1111/jtsa.12660)
+- [Code (MATLAB)](https://github.com/yang-zu/variance-function-breaks) — ready-to-use implementation of the method
 
 ## BibTeX
 
