@@ -1,5 +1,5 @@
 ---
-title: "Software"
+title: "Code"
 ---
 
 Ready-to-use implementations of the methods from my papers, so you can apply them to
