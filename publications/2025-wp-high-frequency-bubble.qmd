@@ -1,26 +1,27 @@
 ---
-title: "Testing for an explosive bubble using high-frequency volatility"
-subtitle: "Uses high-frequency volatility information to build a more powerful test for an explosive bubble."
+title: "Testing for explosiveness in financial asset prices using high-frequency volatility"
+subtitle: "Uses jump-robust high-frequency volatility to build a more powerful test for explosive bubbles, with real-time date-stamping."
 description: "With Boswijk, H. P. and Yu, J. Working paper."
 date: 2025-06-02
-categories: ["Bubble testing", "working paper"]
+categories: ["Bubble testing", "working paper", "code"]
 ---
 
 ## Abstract
 
-Based on a continuous-time stochastic volatility model with a linear drift, we develop a test for explosive behavior in financial asset prices at a low frequency when prices are sampled at a higher frequency. The test exploits the volatility information in the high-frequency data. The method consists of devolatizing log-asset price increments with realized volatility measures and performing a supremum-type recursive Dickey-Fuller test on the devolatized sample. The proposed test has a nuisance-parameter-free asymptotic distribution and is easy to implement. We study the size and power properties of the test in Monte Carlo simulations. A real-time date-stamping strategy based on the devolatized sample is proposed for the origination and conclusion dates of the explosive regime. Conditions under which the real-time date-stamping strategy is consistent are established. The test and the date-stamping strategy are applied to study explosive behavior in cryptocurrency and stock markets.
+Based on a continuous-time stochastic volatility model with linear drift and jumps, we develop a test for explosive behavior in financial asset prices at a low frequency when prices are sampled at a higher frequency. The test exploits the volatility information in the high-frequency data, while maintaining robustness to jumps using truncation. The method involves first removing jumps and then devolatizing low-frequency logarithmic asset price increments using truncated realized volatility measures. Subsequently, a supremum-type recursive Dickey-Fuller test is performed on the reconstructed sample. The proposed test has a nuisance-parameter-free asymptotic null distribution and is easy to implement. We study the size and power properties of the test in Monte Carlo simulations. A real-time date-stamping strategy based on the reconstructed sample is proposed for the origination date of the explosive regime. Conditions under which the real-time date-stamping strategy is consistent are established. The test and the date-stamping strategy are used to study explosive behavior in recent major cryptocurrency markets and in the S&P 500 index during the 1990s dotcom bubble period.
 
 ## Links
 
 - [arXiv](https://arxiv.org/abs/2405.02087)
+- [Code (MATLAB)](https://github.com/yang-zu/bubble-test-hf-volatility) — ready-to-use implementation of the test and date-stamping
 
 ## BibTeX
 
 ```bibtex
-@unpublished{boswijk2024testing,
-  title         = {Testing for an explosive bubble using high-frequency volatility},
+@unpublished{boswijk2026testing,
+  title         = {Testing for explosiveness in financial asset prices using high-frequency volatility},
   author        = {Boswijk, H. Peter and Yu, Jun and Zu, Yang},
-  year          = {2024},
+  year          = {2026},
   note          = {Working paper},
   eprint        = {2405.02087},
   archivePrefix = {arXiv},

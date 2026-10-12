@@ -14,6 +14,15 @@ bubbles that remains valid under time-varying volatility.
 - Repository: [github.com/yang-zu/bubble-test-tv-volatility](https://github.com/yang-zu/bubble-test-tv-volatility)
 - Paper: Harvey, Leybourne and Zu (2019), *Econometric Reviews* — see [Research](research.qmd)
 
+### bubble-test-hf-volatility  <span style="font-weight:400;color:var(--bs-secondary-color)">(MATLAB)</span>
+
+MATLAB implementation of the TVPWY test for explosive bubbles that uses jump-robust
+high-frequency volatility to devolatize low-frequency prices, with real-time
+date-stamping of explosive episodes.
+
+- Repository: [github.com/yang-zu/bubble-test-hf-volatility](https://github.com/yang-zu/bubble-test-hf-volatility)
+- Paper: Boswijk, Yu and Zu, working paper ([arXiv:2405.02087](https://arxiv.org/abs/2405.02087)) — see [Research](research.qmd)
+
 ### dm-different-frequencies  <span style="font-weight:400;color:var(--bs-secondary-color)">(MATLAB)</span>
 
 MATLAB implementation of the two-sample test for comparing the accuracy of forecasts
